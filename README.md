@@ -10,7 +10,7 @@ This program is a Go code analyzer that examines a Go repository and generates a
 ## Installation
 
 ```bash
-git install https://github.com/ThembinkosiThemba/dirtree.git
+go install github.com/ThembinkosiThemba/dirtree@latest
 ```
 
 or building the project from source
